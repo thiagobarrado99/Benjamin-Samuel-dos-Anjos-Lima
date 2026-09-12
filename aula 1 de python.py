@@ -3,8 +3,6 @@
 import os
 import sys
 
-        
-
 def main():
     
     variavel1 = -1
